@@ -12,7 +12,7 @@ function ColorPage() {
 
   return (
     <div id="color-page" className="color-page">
-     컬러 페이지 입니다 .
+     컬러 페이지 입니다.
     </div>
   );
 }
